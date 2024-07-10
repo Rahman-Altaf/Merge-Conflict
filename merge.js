@@ -1,9 +1,9 @@
 
-function addNumbers1(a, b) {
+function addNumbers2(a, b) {
     return a + b;
 }
 
-function multiplyNumbers1(a, b) {
+function multiplyNumbers2(a, b) {
     return a * b;
 }
 
