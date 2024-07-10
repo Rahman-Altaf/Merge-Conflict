@@ -1,3 +1,3 @@
-const merge1 =()=>{
-    console.log("Hello World Merge Conflict")
+const merge2 =()=>{
+    console.log("1 Hello World Merge Conflict")
 } 
